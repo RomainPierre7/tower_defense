@@ -1,0 +1,94 @@
+body {
+    /* width: 10000px;
+    margin: 0 auto; */
+    /* background-color: #FF9500; */
+    background-color: #00539F;
+    /* padding: 0 30px 30px 30px;
+    border: 10px solid black; */
+    
+
+  }
+  
+
+#title {
+    font-size:  50px;
+    margin: 0;
+    padding: 20px 0;
+    /* color: #00539F; */
+    color: #FF9500;
+    text-shadow: 3px 3px 1px black;
+    text-align: center;
+}
+
+#game-info {
+    color: #FF9500;
+    font-size: 30px;
+    text-shadow: 3px 3px 1px black;
+    text-align: center;
+  }
+
+
+#board {
+    font-size: 55px; 
+    text-align: center;
+}
+
+#item {
+    font-size: 55px; 
+    text-align: center;
+
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  font-size: 36px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #3e8e41;
+}
+
+.button:active {
+  background-color: #3e8e41;
+  transform: translateY(4px);
+}
+
+.button2 {
+  background-color: crimson;
+}
+.button2 {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: crimson;
+  color: white;
+  text-align: center;
+  font-size: 36px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button3 {
+  background-color: rgb(34, 97, 178);
+}
+.button3 {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: rgb(34, 97, 178);
+  color: white;
+  text-align: center;
+  font-size: 36px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}

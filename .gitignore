@@ -1,0 +1,12 @@
+*~
+dist/*
+node_modules/*
+*.js
+.vscode
+package-lock.json
+.parcel-cache
+coverage
+package.json
+rapport.[pla]*
+rapport.toc
+rapport.out
