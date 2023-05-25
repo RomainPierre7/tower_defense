@@ -1,4 +1,4 @@
-# Sujet de programmation impérative
+# Sujet de programmation fonctionnelle
 
 La page du sujet :
 
