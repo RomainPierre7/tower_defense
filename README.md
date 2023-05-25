@@ -34,8 +34,7 @@ Ce fichier contient des instructions pour compiler, tester et exécuter l'applic
 - `make run` : Exécute l'application en mode console
 - `make test` : Lance les tests unitaires et génère un rapport de couverture
 - `make eslint` : Analyse le code avec ESLint pour détecter les erreurs et les avertissements
-- `make parcel` : Compile et lance l'application en mode web avec Parcel
 - `make pdf` : Compile le rapport en format PDF et l'affiche avec Evince
 - `make clean` : Supprime les fichiers temporaires
 
-Pour exécuter l'application, utilisez la commande `make run`. Pour lancer l'application en mode web, utilisez la commande `make parcel`. Pour générer le rapport en format PDF, utilisez la commande `make pdf`. Pour lancer les tests, utilisez la commande `make test`. Pour compiler le code TypeScript en JavaScript, utilisez la commande `make build`. Pour nettoyer les fichiers temporaires, utilisez la commande `make clean`.
+Pour exécuter l'application, utilisez la commande `make run`. Pour générer le rapport en format PDF, utilisez la commande `make pdf`. Pour lancer les tests, utilisez la commande `make test`. Pour compiler le code TypeScript en JavaScript, utilisez la commande `make build`. Pour nettoyer les fichiers temporaires, utilisez la commande `make clean`.
